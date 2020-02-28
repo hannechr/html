@@ -1,0 +1,5 @@
+<html>
+	<head>
+		<title>JLearner</title>
+		<script>alert('Hello world!')</script>" +
+				"</html>";
